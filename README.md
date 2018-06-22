@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 5: June 22, 2018
+1. Solved a problem from Queues: Implement a queue using two stacks.
+
 ## Day 4: June 21, 2018
 1. Solved a problem from Array: Return the minimum element of array in O(1)
 
