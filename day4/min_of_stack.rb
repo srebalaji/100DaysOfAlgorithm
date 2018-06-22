@@ -1,3 +1,7 @@
+# min of stack.
+
+# At any point of time, return the minium element of an array in O(n)
+
 array = []
 min = []
 puts "Enter stack size"
