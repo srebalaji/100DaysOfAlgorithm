@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 4: June 21, 2018
+1. Solved a problem from Array: Return the minimum element of array in O(1)
+
 ## Day 3: June 20, 2018
 1. Solved zero matrix: In a given matrix, for every element that equals to zero make that entire row and column to zero.
 
