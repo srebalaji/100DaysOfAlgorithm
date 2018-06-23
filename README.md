@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 6: June 23, 2018
+1. Solved stack sorting: Sort the given stack in ascending order without using any other data-structure except using one additional stack.
+
 ## Day 5: June 22, 2018
 1. Solved a problem from Queues: Implement a queue using two stacks.
 
