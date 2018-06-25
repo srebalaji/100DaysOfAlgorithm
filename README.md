@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 8: June 25, 2018
+1. Implemented traversion and insertion of LinkedList without using any other data-structure.
+
 ## Day 7: June 24, 2018
 1. Solved a problem from linked list: Find the middle element in the given linked list
 
