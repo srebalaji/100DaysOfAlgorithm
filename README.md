@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 7: June 24, 2018
+1. Solved a problem from linked list: Find the middle element in the given linked list
+
 ## Day 6: June 23, 2018
 1. Solved stack sorting: Sort the given stack in ascending order without using any other data-structure except using one additional stack.
 
