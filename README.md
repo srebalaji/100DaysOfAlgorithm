@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 9: June 26, 2018
+1. Completed single LinkedList and implemented doubly LinkedList without using any other data-structure.
+
 ## Day 8: June 25, 2018
 1. Implemented traversion and insertion of LinkedList without using any other data-structure.
 
