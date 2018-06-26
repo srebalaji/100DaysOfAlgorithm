@@ -1,17 +1,23 @@
-# Linked List Implementation
+# Doubly linked list
+
 class Node
-	attr_accessor :value, :next
+	attr_accessor :value, :next, :prev
 	def initialize(value)
 		@value = value
 		@next = nil
+		@prev = nil
 	end
 
 	def get_value
-		@value
+		value
 	end
 
 	def get_next
 		@next
+	end
+
+	def get_prev
+		prev
 	end
 
 	def set_value(value)
@@ -21,10 +27,14 @@ class Node
 	def set_next(next_pointer)
 		@next = next_pointer
 	end
+
+	def set_prev(prev)
+		@prev = prev
+	end
 end
 
-class LinkedList
-
+class DoublyLinkedList
+	attr_accessor :head
 	def initialize
 		@head = nil
 		@length = 0
@@ -38,16 +48,18 @@ class LinkedList
 		element = @head
 		loop do
 			break if element.nil?
-			p [element.get_value, element.get_next]
+			p element.get_value
 			element = element.get_next
 		end
 	end
 
 	def insert(data)
 		@length += 1
+
 		if @head.nil?
 			node = Node.new(data)
 			@head = node
+			# node.set_prev(@head)
 		else
 			element = @head
 			while(element.get_next != nil)
@@ -55,6 +67,7 @@ class LinkedList
 			end
 			node = Node.new(data)
 			element.set_next(node)
+			node.set_prev(element)
 		end
 	end
 
@@ -65,80 +78,81 @@ class LinkedList
 			node = Node.new(data)
 			temp = @head
 			@head = node
-			node.set_next(temp)
+			@head.set_next(temp)
+			temp.set_prev(@head)
 			@length += 1
 			return
 		end
 
 		element = @head
-		prev_element = nil
 		iterate_pos = 1
+		
 		while(element.get_next != nil)
 			break if iterate_pos == pos
 			iterate_pos += 1
-			prev_element = element
 			element = element.get_next
 		end
 
 		temp = element
-		if pos == length+1
-			temp = nil
-			prev_element = element
-		end
-
 		node = Node.new(data)
-		prev_element.set_next(node)
-		node.set_next(temp)
+
+		if pos == length+1
+			element.set_next(node)
+			node.set_prev(element)
+		else
+			element.get_prev.set_next(node)
+			node.set_prev(element.get_prev)
+			node.set_next(temp)
+			temp.set_prev(node)
+		end
 		@length += 1
 	end
 
 	def remove(pos = nil)
 		if pos.nil?
 			element = @head
-			prev_element = nil
 			while(element.get_next != nil)
-				prev_element = element
 				element = element.get_next
 			end
-			prev_element.set_next(nil)
+			element.get_prev.set_next(nil)
 			@length -= 1
 		else
 			return nil if pos > length || pos <= 0
 
 			element = @head
-
+			
 			if pos == 1
 				@head = element.get_next
+				@head.set_prev(nil)
 				@length -= 1
 				return
 			end
 
-			prev_element = nil
 			iterate_pos = 1
+
 			while(element.get_next != nil)
 				break if iterate_pos == pos
 				iterate_pos += 1
-				prev_element = element
 				element = element.get_next
 			end
 
 			if pos == length
-				prev_element.set_next(nil)
+				element.get_prev.set_next(nil)
 			else
-				prev_element.set_next(element.get_next)
-				element.set_next(nil)
+				element.get_prev.set_next(element.get_next)
+				element.get_next.set_prev(element.get_prev)
 			end
 			@length -= 1
 		end
 	end
+
 end
 
-
-list = LinkedList.new
+list = DoublyLinkedList.new
 list.insert(10)
 list.insert(20)
 list.insert(30)
-list.insertAt(4, 40)
+list.insertAt(2, 40)
 list.remove(1)
 list.explain
-p list.length
+# p list.length
