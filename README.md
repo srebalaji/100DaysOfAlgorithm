@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 12: June 29, 2018
+1. Completed binary search tree.
+
 ## Day 11: June 28, 2018
 1. Started to implement a binary search tree from a given array.
 
