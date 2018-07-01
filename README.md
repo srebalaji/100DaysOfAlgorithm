@@ -2,7 +2,10 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
-## Day 13: June 20, 2018
+## Day 14: July 1, 2018
+1. Implemented Breadth First Search.
+
+## Day 13: June 30, 2018
 1. Implemented Depth First Search.
 
 ## Day 12: June 29, 2018
