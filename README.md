@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 16: July 3, 2018
+1. Solved a problem from graphs: Design a algorithm to build the order of jobs without affecting the job dependencies.
+
 ## Day 15: July 2, 2018
 1. Implement an algorithm to check if the given binary tree is binary search tree or not.
 
