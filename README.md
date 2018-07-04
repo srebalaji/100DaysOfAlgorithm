@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 17: July 4: 2018
+1. Implemented an algorithm to find the common ancestor for the given two nodes of a binary tree.
+
 ## Day 16: July 3, 2018
 1. Solved a problem from graphs: Design a algorithm to build the order of jobs without affecting the job dependencies.
 
