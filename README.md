@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 18: July 5: 2018
+1. Started to implement an algorithm to print all possible ways of traversing nodes of BST.
+
 ## Day 17: July 4: 2018
 1. Implemented an algorithm to find the common ancestor for the given two nodes of a binary tree.
 
