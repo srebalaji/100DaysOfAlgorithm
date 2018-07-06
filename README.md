@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 19: July 6: 2018
+1. Wrote pseudo code for an algorithm to print all possible ways of traversing nodes of BST.
+
 ## Day 18: July 5: 2018
 1. Started to implement an algorithm to print all possible ways of traversing nodes of BST.
 
