@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 21: July 8: 2018
+1. Implemented Bellman Ford algorithm.
+
 ## Day 20: July 7: 2018
 1. Implemented Dijkstra algorithm.
 
