@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 20: July 7: 2018
+1. Implemented Dijkstra algorithm.
+
 ## Day 19: July 6: 2018
 1. Wrote pseudo code for an algorithm to print all possible ways of traversing nodes of BST.
 
