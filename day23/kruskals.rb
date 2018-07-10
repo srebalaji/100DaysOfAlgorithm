@@ -34,6 +34,17 @@ graph = [a,b,c,d,e,f,g]
 @vertices << [e,g,9]
 @vertices << [c,e,7]
 
+@set = []
+graph.each {|vertice| @set << [vertice.data]}
+
+def find(vertice)
+	@set.each_with_index {|value, index| return index if value.include? vertice}
+end
+
+def union(a, b)
+	@set[a].concat @set[b]
+	@set.delete_at(b)
+end
 
 def get_min
 	edge = @vertices.first
@@ -47,10 +58,11 @@ end
 def spanning_tree(edge)
 	from, to = edge[0].data, edge[1].data
 
-	if FIND(from) != FIND(to)
-		UNION(from, to)
+	if find(from) != find(to)
 		@queue << [from, to]
+		union(find(from), find(to))
 	end
+	
 	@vertices.delete(edge)
 	spanning_tree get_min unless get_min.nil?
 end
