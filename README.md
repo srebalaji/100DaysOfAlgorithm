@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 23: July 10, 2018
+1. Implemented Kruskal's algorithm.
+
 ## Day 22: July 9, 2018
 1. Implemented Prim's algorithm.
 
