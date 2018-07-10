@@ -2,19 +2,22 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
-## Day 21: July 8: 2018
+## Day 22: July 9, 2018
+1. Implemented Prim's algorithm.
+
+## Day 21: July 8, 2018
 1. Implemented Bellman Ford algorithm.
 
-## Day 20: July 7: 2018
+## Day 20: July 7, 2018
 1. Implemented Dijkstra algorithm.
 
-## Day 19: July 6: 2018
+## Day 19: July 6, 2018
 1. Wrote pseudo code for an algorithm to print all possible ways of traversing nodes of BST.
 
-## Day 18: July 5: 2018
+## Day 18: July 5, 2018
 1. Started to implement an algorithm to print all possible ways of traversing nodes of BST.
 
-## Day 17: July 4: 2018
+## Day 17: July 4, 2018
 1. Implemented an algorithm to find the common ancestor for the given two nodes of a binary tree.
 
 ## Day 16: July 3, 2018
