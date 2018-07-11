@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 24: July 11, 2018
+1. Implemented Sieve Of Eratosthenes algorithm.
+
 ## Day 23: July 10, 2018
 1. Implemented Kruskal's algorithm.
 
