@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 25: July 12, 2018
+1. Implemented singleton and factory design patterns.
+
 ## Day 24: July 11, 2018
 1. Implemented Sieve Of Eratosthenes algorithm.
 
