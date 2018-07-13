@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 26: July 13, 2018
+1. Implemented a design pattern to manage call center system.
+
 ## Day 25: July 12, 2018
 1. Implemented singleton and factory design patterns.
 
