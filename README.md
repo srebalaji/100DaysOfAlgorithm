@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 27: July 14, 2018
+1. Implemented an algorithm to find the number of ways to reach nth step.
+
 ## Day 26: July 13, 2018
 1. Implemented a design pattern to manage call center system.
 
