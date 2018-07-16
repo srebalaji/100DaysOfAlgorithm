@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 28: July 15, 2018
+1. Implemented a design pattern of music jukebox.
+
 ## Day 27: July 14, 2018
 1. Implemented an algorithm to find the number of ways to reach nth step.
 
