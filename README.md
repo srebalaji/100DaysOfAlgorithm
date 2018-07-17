@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 29: July 16, 2018
+1. Implemented an algorithm to find the path from top left to bottom right in a maze.
+
 ## Day 28: July 15, 2018
 1. Implemented a design pattern of music jukebox.
 
