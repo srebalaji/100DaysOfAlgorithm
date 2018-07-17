@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 30: July 17, 2018
+1. Implemented an algorithm to find magic index of an array.
+
 ## Day 29: July 16, 2018
 1. Implemented an algorithm to find the path from top left to bottom right in a maze.
 
