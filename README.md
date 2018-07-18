@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 31: July 18, 2018
+1. Implemented a design pattern for parking lot.
+
 ## Day 30: July 17, 2018
 1. Implemented an algorithm to find magic index of an array.
 
