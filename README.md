@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 32: July 19, 2018
+1. Implemented merge sort.
+
 ## Day 31: July 18, 2018
 1. Implemented a design pattern for parking lot.
 
