@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+# Day 33: July 20, 2018
+1. Multiply two numbers without using *
+
 ## Day 32: July 19, 2018
 1. Implemented merge sort.
 
