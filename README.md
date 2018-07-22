@@ -2,7 +2,10 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
-# Day 33: July 20, 2018
+## Day 34: July 21, 2018
+1. Implemented an algorithm to print all the permutations of the given string.
+
+## Day 33: July 20, 2018
 1. Multiply two numbers without using *
 
 ## Day 32: July 19, 2018
