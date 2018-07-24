@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 36: July 23, 2018
+1. Implemented quick sort algorithm.
+
 ## Day 35: July 22, 2018
 1. Implemented an algorithm to print all the permutations of the given string with duplicate chars.
 
