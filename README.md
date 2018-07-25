@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 37: July 24, 2018
+1. Implemented an algorithm to merge two sorted array.
+
 ## Day 36: July 23, 2018
 1. Implemented quick sort algorithm.
 
