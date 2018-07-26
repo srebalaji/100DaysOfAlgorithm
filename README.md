@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 38: July 25, 2018
+1. Implemented an algorithm to sort an array of strings such that all anagrams are next to each other.
+
 ## Day 37: July 24, 2018
 1. Implemented an algorithm to merge two sorted array.
 
