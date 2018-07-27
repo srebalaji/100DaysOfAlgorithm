@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 39: July 26, 2018
+1. Implemented an algorithm to find an element in a n-times rotated sorted array.
+
 ## Day 38: July 25, 2018
 1. Implemented an algorithm to sort an array of strings such that all anagrams are next to each other.
 
