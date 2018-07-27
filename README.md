@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 40: July 27, 2018
+1. Implemented an algorithm to find a given string from an given array of strings with blank.
+
 ## Day 39: July 26, 2018
 1. Implemented an algorithm to find an element in a n-times rotated sorted array.
 
