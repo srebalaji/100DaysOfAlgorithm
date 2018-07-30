@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 42: July 29, 2018
+1. Implemented an algorithm to swap two numbers without using additional space.
+
 ## Day 41: July 28, 2018
 1. Implemented an algorithm to find the number of elements less than the given element from a given stream of integers.
 
