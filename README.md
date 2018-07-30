@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 43: July 30, 2018
+1. Implemented an algorithm to find the minimum difference between two arrays.
+
 ## Day 42: July 29, 2018
 1. Implemented an algorithm to swap two numbers without using additional space.
 
