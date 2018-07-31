@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 44: July 31, 2018
+1. Implemented Least Recently Used cache.
+
 ## Day 43: July 30, 2018
 1. Implemented an algorithm to find the minimum difference between two arrays.
 
