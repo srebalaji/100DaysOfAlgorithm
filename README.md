@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 45: August 1, 2018
+1. Implemented an algorithm to find the max population of the year, given the birth rate and death rate for the range of years.
+
 ## Day 44: July 31, 2018
 1. Implemented Least Recently Used cache.
 
