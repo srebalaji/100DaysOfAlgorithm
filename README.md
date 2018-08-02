@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 46: August 2, 2018
+1. Implemented an algorithm to make the sum of elements of two given arrays equal by swaping two numbers.
+
 ## Day 45: August 1, 2018
 1. Implemented an algorithm to find the max population of the year, given the birth rate and death rate for the range of years.
 
