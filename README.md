@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 48: August 4, 2018
+1. Implemented an algorithm to sort an given array by sorting the minimum sub-array.
+
 ## Day 47: August 3, 2018
 1. Implemented an algorithm to find the contiguous sub-sequence with max sum.
 
