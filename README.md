@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 49: August 5, 2018
+1. Implemented an algorithm to find the number of pond sizes in the given N*N matrix.
+
 ## Day 48: August 4, 2018
 1. Implemented an algorithm to sort an given array by sorting the minimum sub-array.
 
