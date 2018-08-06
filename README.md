@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 50: August 6, 2018
+1. Implemented an algorithm to find whether there is a winner in tic-tac-toc game.
+
 ## Day 49: August 5, 2018
 1. Implemented an algorithm to find the number of pond sizes in the given N*N matrix.
 
