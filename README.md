@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 51: August 7, 2018
+1. Implemented an algorithm to sort an array by alternating peaks and shallows.
+
 ## Day 50: August 6, 2018
 1. Implemented an algorithm to find whether there is a winner in tic-tac-toc game.
 
