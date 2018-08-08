@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 52: August 8, 2018
+1. Implemented an algorithm to find the hits and psuedo-hits of master mind game.
+
 ## Day 51: August 7, 2018
 1. Implemented an algorithm to sort an array by alternating peaks and shallows.
 
