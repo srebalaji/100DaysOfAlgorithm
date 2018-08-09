@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 53: August 9, 2018
+1. Implemented an algorithm to find the pairs that equals to the given element. And solved stock buy-sell for maximum profit problem.
+
 ## Day 52: August 8, 2018
 1. Implemented an algorithm to find the hits and psuedo-hits of master mind game.
 
