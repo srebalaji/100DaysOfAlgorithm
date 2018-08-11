@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 55: August 11, 2018
+1. Implemented an algorithm to reverse a sentence.
+
 ## Day 54: August 10, 2018
 1. Solved coin-change problem.
 
