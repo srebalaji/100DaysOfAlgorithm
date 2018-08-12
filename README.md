@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 56: August 12, 2018
+1. Wrote pseudo code for counting inversions of an array. 
+
 ## Day 55: August 11, 2018
 1. Implemented an algorithm to reverse a sentence.
 
