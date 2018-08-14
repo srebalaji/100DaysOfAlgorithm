@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 58: August 14, 2018
+1. Implemented queue data-structure using two stacks.
+
 ## Day 57: August 13, 2018
 1. Implemented an algorithm to find an element in an sorted matrix.
 
