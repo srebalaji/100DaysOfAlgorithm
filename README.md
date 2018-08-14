@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 57: August 13, 2018
+1. Implemented an algorithm to find an element in an sorted matrix.
+
 ## Day 56: August 12, 2018
 1. Wrote pseudo code for counting inversions of an array. 
 
