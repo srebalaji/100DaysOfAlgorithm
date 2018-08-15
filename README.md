@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for the next 100 days.
 
+## Day 59: August 15, 2018
+1. Implemented problem in Hash. Problem statement can be found at https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps.
+
 ## Day 58: August 14, 2018
 1. Implemented queue data-structure using two stacks.
 
