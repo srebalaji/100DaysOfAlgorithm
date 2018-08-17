@@ -1,6 +1,9 @@
 # #100DaysOfAlgorithm
 
-Practicing Algorithms and data structures for the next 100 days.
+Practicing Algorithms and data structures for 100 days.
+
+## Day 61: August 17, 2018
+1. Solved "Largest Rectangle" from hackerrank. Problem at https://www.hackerrank.com/challenges/largest-rectangle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues
 
 ## Day 60: August 16, 2018
 1. Solved "Making Anagrams" from hackerrank. Problem at https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings
