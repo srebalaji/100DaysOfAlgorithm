@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 65: August 21, 2018
+1. Solved Max array sum from hackerrank. Problem at https://www.hackerrank.com/challenges/max-array-sum/problem
+
 ## Day 64: August 20, 2018
 1. Solved Minimum abs difference. Problem at https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms
 
