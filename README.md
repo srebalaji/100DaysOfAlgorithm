@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 66: August 22, 2018
+1. Solved Greedy Florist from Hackerrank. Problem at https://www.hackerrank.com/challenges/greedy-florist/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms
+
 ## Day 65: August 21, 2018
 1. Solved Max array sum from hackerrank. Problem at https://www.hackerrank.com/challenges/max-array-sum/problem
 
