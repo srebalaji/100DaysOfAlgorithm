@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 68: August 24, 2018
+1. Wrote pseudo code for Magic square from Hackerrank. Problem at https://www.hackerrank.com/challenges/magic-square-forming/problem
+
 ## Day 67: August 23, 2018
 1. Solved Ice Cream Parlour from Hackerrank. Problem at https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search
 
