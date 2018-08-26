@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 70: August 26, 2018
+1. Solved Organizing Container from Hackerrank. Problem at https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem
+
 ## Day 69: August 25, 2018
 1. Solved Apple and Organge from Hackerrank. Problem at https://www.hackerrank.com/challenges/apple-and-orange/problem
 
