@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 69: August 25, 2018
+1. Solved Apple and Organge from Hackerrank. Problem at https://www.hackerrank.com/challenges/apple-and-orange/problem
+
 ## Day 68: August 24, 2018
 1. Wrote pseudo code for Magic square from Hackerrank. Problem at https://www.hackerrank.com/challenges/magic-square-forming/problem
 
