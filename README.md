@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 71: August 27, 2018
+1. Solved Kangaroo from Hackerrank. Problem at https://www.hackerrank.com/challenges/kangaroo/problem
+
 ## Day 70: August 26, 2018
 1. Solved Organizing Container from Hackerrank. Problem at https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem
 
