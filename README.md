@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 72: August 28, 2018
+1. Solved Electronics shop from Hackerrank. Problem at https://www.hackerrank.com/challenges/electronics-shop/problem
+
 ## Day 71: August 27, 2018
 1. Solved Kangaroo from Hackerrank. Problem at https://www.hackerrank.com/challenges/kangaroo/problem
 
