@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 73: August 29, 2018
+1. Solved The hurdle race from Hackerrank. Problem at https://www.hackerrank.com/challenges/the-hurdle-race/problem
+
 ## Day 72: August 28, 2018
 1. Solved Electronics shop from Hackerrank. Problem at https://www.hackerrank.com/challenges/electronics-shop/problem
 
