@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 74: August 30, 2018
+1. Solved PDF Viewer from Hackerrank. Problem at https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
+
 ## Day 73: August 29, 2018
 1. Solved The hurdle race from Hackerrank. Problem at https://www.hackerrank.com/challenges/the-hurdle-race/problem
 
