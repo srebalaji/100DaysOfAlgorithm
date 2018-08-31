@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 75: August 31, 2018
+1. Solved Beautiful days at movies from Hackerrank. Problem at https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
+
 ## Day 74: August 30, 2018
 1. Solved PDF Viewer from Hackerrank. Problem at https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
 
