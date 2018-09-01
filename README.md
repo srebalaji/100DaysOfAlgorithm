@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 76: September 1, 2018
+1. Solved Balance expression from Hackerrank. Problem at https://www.hackerrank.com/challenges/ctci-balanced-brackets/problem
+
 ## Day 75: August 31, 2018
 1. Solved Beautiful days at movies from Hackerrank. Problem at https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
 
