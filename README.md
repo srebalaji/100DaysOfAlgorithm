@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 77: September 2, 2018
+1. Solved Circular rotation array from Hackerrank. Problem at https://www.hackerrank.com/challenges/circular-array-rotation/problem
+
 ## Day 76: September 1, 2018
 1. Solved Balance expression from Hackerrank. Problem at https://www.hackerrank.com/challenges/ctci-balanced-brackets/problem
 
