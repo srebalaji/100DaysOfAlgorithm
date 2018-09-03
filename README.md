@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 78: September 3, 2018
+1. Solved find digits from Hackerrank. Problem at https://www.hackerrank.com/challenges/find-digits/problem
+
 ## Day 77: September 2, 2018
 1. Solved Circular rotation array from Hackerrank. Problem at https://www.hackerrank.com/challenges/circular-array-rotation/problem
 
