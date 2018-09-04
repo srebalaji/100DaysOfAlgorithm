@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 79: September 4, 2018
+1. Solved Beautiful triplets from Hackerrank. Problem at https://www.hackerrank.com/challenges/beautiful-triplets/problem
+
 ## Day 78: September 3, 2018
 1. Solved find digits from Hackerrank. Problem at https://www.hackerrank.com/challenges/find-digits/problem
 
