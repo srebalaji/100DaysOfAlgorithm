@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 80: September 5, 2018
+1. Solved minimum distance from Hackerrank. Problem at https://www.hackerrank.com/challenges/minimum-distances/problem
+
 ## Day 79: September 4, 2018
 1. Solved Beautiful triplets from Hackerrank. Problem at https://www.hackerrank.com/challenges/beautiful-triplets/problem
 
