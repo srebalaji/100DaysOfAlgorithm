@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 82: September 7, 2018
+1. Solved Flatland space stations from Hackerrank. Problem at https://www.hackerrank.com/challenges/flatland-space-stations/forum
+
 ## Day 81: September 6, 2018
 1. Solved Halloween sale from Hackerrank. Problem at https://www.hackerrank.com/challenges/halloween-sale/problem
 
