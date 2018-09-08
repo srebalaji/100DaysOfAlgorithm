@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 83: September 8, 2018
+1. Solved Service lane from Hackerrank. Problem at https://www.hackerrank.com/challenges/service-lane/problem
+
 ## Day 82: September 7, 2018
 1. Solved Flatland space stations from Hackerrank. Problem at https://www.hackerrank.com/challenges/flatland-space-stations/forum
 
