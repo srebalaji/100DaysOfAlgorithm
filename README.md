@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 84: September 9, 2018
+1. Solved Chocolate feasts from Hackerrank. Problem at https://www.hackerrank.com/challenges/chocolate-feast/problem
+
 ## Day 83: September 8, 2018
 1. Solved Service lane from Hackerrank. Problem at https://www.hackerrank.com/challenges/service-lane/problem
 
