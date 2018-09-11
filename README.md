@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 86: September 11, 2018
+1. Implemented Visitor design pattern.
+
 ## Day 85: September 10, 2018
 1. Implemented State design pattern. 
 
