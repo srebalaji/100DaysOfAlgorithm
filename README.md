@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 87: September 12, 2018
+1. Implemented Decorator design pattern.
+
 ## Day 86: September 11, 2018
 1. Implemented Visitor design pattern.
 
