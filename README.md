@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 89: September 14, 2018
+1. Implemented e-commerce system design part - 2.
+
 ## Day 88: September 13, 2018
 1. Implemented e-commerce system design part - 1.
 
