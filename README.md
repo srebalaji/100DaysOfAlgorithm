@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 91: September 16, 2018
+1. Implemented url-shortener system design.
+
 ## Day 90: September 15, 2018
 1. Implemented e-commerce system design part - 3.
 
