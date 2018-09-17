@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 92: September 17, 2018
+1. Implemented iterator design pattern.
+
 ## Day 91: September 16, 2018
 1. Implemented url-shortener system design.
 
