@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 93: September 18, 2018
+1. Implemented Memento design pattern.
+
 ## Day 92: September 17, 2018
 1. Implemented iterator design pattern.
 
