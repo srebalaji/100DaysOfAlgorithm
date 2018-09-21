@@ -2,8 +2,11 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 96: September 21, 2018
+1. Implemented Strategy design pattern.
+
 ## Day 95: September 20, 2018
-1. Implemented Chain of responsibility pattern.
+1. Implemented Chain of responsibility design pattern.
 
 ## Day 94: September 19, 2018
 1. Implemented Mediator design pattern.
