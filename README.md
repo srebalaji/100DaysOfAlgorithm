@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 97: September 22, 2018
+1. Implemented Composite design pattern.
+
 ## Day 96: September 21, 2018
 1. Implemented Strategy design pattern.
 
