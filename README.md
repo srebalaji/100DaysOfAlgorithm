@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 99: September 24, 2018
+1. Implemented Facade design pattern.
+
 ## Day 98: September 23, 2018
 1. Implemented Abstract factory design pattern.
 
