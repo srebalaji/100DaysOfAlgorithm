@@ -2,6 +2,9 @@
 
 Practicing Algorithms and data structures for 100 days.
 
+## Day 100: September 25, 2018
+1. Implemented State design pattern.
+
 ## Day 99: September 24, 2018
 1. Implemented Facade design pattern.
 
